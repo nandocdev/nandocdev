@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy Fernando Castillo 👋
 
-<!--
-**nandocdev/nandocdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+Soy un desarrollador web con más de 5 años de experiencia en la creación y optimización de aplicaciones web y móviles. Trabajo principalmente con PHP, JavaScript, MySQL, SQL, C#, y Dart, y tengo experiencia con frameworks como React, Angular y Flutter.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
+- **[Solicitud de citas médicas](enlace-al-repositorio):** Aplicación para la gestión de citas médicas.
+- **[Medicsol](enlace-al-repositorio):** Aplicación web para la gestión de datos médicos.
+- **[REGSO](enlace-al-repositorio):** Proyecto de gestión de registros de salud ocupacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- **Lenguajes de programación:** PHP, JavaScript, MySQL, SQL, C#, Dart
+- **Frameworks y bibliotecas:** React, Angular, Flutter
+- **Metodologías:** Agile, Scrum
+
+## Certificaciones
+- **Metodologías Ágiles**, Universidad Nacional de Panamá
+
+## Contacto
+- **Correo electrónico:** [tu-email]
+- **LinkedIn:** [enlace a tu perfil de LinkedIn]
+
+## Intereses
+- Desarrollo web y móvil
+- Innovación tecnológica
+- Café ☕
+
+¡Gracias por visitar mi perfil! Si tienes algún proyecto interesante o deseas colaborar, no dudes en contactarme.
