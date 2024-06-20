@@ -17,8 +17,8 @@ Soy un desarrollador web con más de 5 años de experiencia en la creación y op
 - **Metodologías Ágiles**, Universidad Nacional de Panamá
 
 ## Contacto
-- **Correo electrónico:** [nando.castillov@outlook.com]
-- **LinkedIn:** [https://www.linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1/]
+- **Correo electrónico:** [Fernando Castillo](nando.castillov@outlook.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1/)
 
 ## Intereses
 - Desarrollo web y móvil
