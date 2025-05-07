@@ -1,6 +1,6 @@
 <!-- Encabezado con HTML para centrar y dar un toque visual -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/MagoKimbra/0798928190427e596e3116c02a825c2a/raw/f37c8071c65f97e21283dfc2c16fa9967f01c18c/github_header_MagoKimbra.svg" alt="Banner Dinámico de GitHub - Saludo y Hora" width="800"/>
+  <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/github-header-image.png" alt="Banner Dinámico de GitHub - Saludo y Hora" width="800"/>
   <h1>👋 ¡Hola! Soy Fernando</h1>
   <p><em>[Desarrollador | Analista de Datos | Estudiante de Ingeniería de Software]</em></p>
   <!-- Insignias de redes sociales (opcional, usa shields.io o similar) -->
