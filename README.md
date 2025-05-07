@@ -1,9 +1,7 @@
 <!-- Encabezado con HTML para centrar y dar un toque visual -->
 <div align="center">
   <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/github-header-image.png" alt="Banner Dinámico de GitHub - Saludo y Hora" width="800"/>
-  <h1>👋 ¡Hola! Soy Fernando</h1>
-  <p><em>[Desarrollador | Analista de Datos | Estudiante de Ingeniería de Software]</em></p>
-  <!-- Insignias de redes sociales (opcional, usa shields.io o similar) -->
+ 
   <p>
     <a href="https://linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
