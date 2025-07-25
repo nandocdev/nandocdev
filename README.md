@@ -1,7 +1,7 @@
 <!-- Encabezado con HTML para centrar y dar un toque visual -->
 <div align="center">
   <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/github-header-image.png" alt="Banner Dinámico de GitHub - Saludo y Hora" width="800"/>
- 
+
   <p>
     <a href="https://linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -12,7 +12,6 @@
     <a href="mailto:nandocdev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
     </a>
-    <!-- Añade más si quieres -->
   </p>
 </div>
 
@@ -20,17 +19,17 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un desarrollador apasionado por aprender, [Tu Interés Principal 2] y [Tu Interés Principal 3]. Me encanta transformar ideas en soluciones funcionales y eficientes. Siempre estoy en búsqueda de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
+Soy un desarrollador fullstack enfocado en **Laravel**, **Node.js** y arquitecturas limpias como la **hexagonal**. Me apasiona optimizar procesos y crear soluciones prácticas que realmente generen valor. Me considero curioso, autodidacta y siempre buscando mejorar con cada proyecto.
 
-*   🌍 Vivo en Panamá.
-*   🔭 Actualmente estoy trabajando en Caja de Segurro Social
-*   🌱 Estoy aprendiendo C#
+* 🌍 Vivo en Panamá.  
+* 🔭 Actualmente trabajo en **Caja de Seguro Social** como Analista de Control y Monitoreo (Workforce).  
+* 🌱 Estoy aprendiendo **C# y .NET**, y perfeccionando mis habilidades en automatización y CI/CD.  
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías con las que disfruto trabajar:
+Aquí están algunas tecnologías con las que trabajo:
 
 <p align="left">
   <!-- Lenguajes -->
@@ -41,23 +40,18 @@ Aquí están algunas de las tecnologías con las que disfruto trabajar:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-  <!-- Frameworks / Bibliotecas Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <!-- Frameworks Backend -->
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <!-- Frameworks / Bibliotecas Backend -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  </a>
   <!-- Bases de Datos -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -69,52 +63,47 @@ Aquí están algunas de las tecnologías con las que disfruto trabajar:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <!-- Añade más según tus habilidades -->
 </p>
 
-*   **Frontend:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `React`, `Vue.js`, `Angular`
-*   **Backend:** `Node.js (Express)`, `Python (Django/Flask)`, `PHP (Laravel)`
-*   **Bases de Datos:** `MongoDB`, `PostgreSQL`, `MySQL`, `Firebase`
-*   **DevOps & Herramientas:** `Git`, `Docker`,  `AWS`, `Azure`, `CI/CD (GitHub Actions, Jenkins)`
-*   **Otros:** `Metodologías Ágiles (Scrum, Kanban)`
+* **Frontend:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Vue.js`, `React`.  
+* **Backend:** `Node.js (Express)`, `PHP (Laravel)`, `Python (Flask/Django)`.  
+* **Bases de Datos:** `MySQL`, `PostgreSQL`, `MongoDB`.  
+* **DevOps & Herramientas:** `Git`, `Docker`, `CI/CD (GitHub Actions)`.  
+* **Otros:** `Pruebas Automatizadas`, `Patrones de Diseño`, `Metodologías Ágiles`.  
 
 ---
 
-## 🚀 Mis Proyectos Destacados
-
-Aquí algunos proyectos en los que he trabajado y estoy orgulloso de mostrar:
+## 🚀 Proyectos Destacados
 
 <details>
   <summary>Haz clic para ver los proyectos</summary>
-  
+
   <!-- Proyecto 1 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="[URL_A_UNA_IMAGEN_O_GIF_DE_TU_PROYECTO_1]" alt="Nombre Proyecto 1" width="150" style="margin-right: 20px; border-radius: 8px;">
+    <img src="https://github.com/nandocdev/reservease/blob/main/assets/demo.png" alt="ReservEase" width="150" style="margin-right: 20px; border-radius: 8px;">
     <div>
-      <h3><a href="[LINK_A_TU_PROYECTO_1_EN_GITHUB_O_DEMO]">Nombre Proyecto 1</a></h3>
-      <p>Breve descripción del proyecto 1. Destaca su objetivo principal y las tecnologías clave utilizadas.</p>
-      <p><em>Tecnologías: <code>React</code>, <code>Node.js</code>, <code>MongoDB</code></em></p>
+      <h3><a href="https://github.com/nandocdev/reservease">ReservEase</a></h3>
+      <p>Plataforma SaaS para reservas online para negocios pequeños, con soporte multi-tenancy y personalización.</p>
+      <p><em>Tecnologías: <code>Laravel</code>, <code>MySQL</code>, <code>FullCalendar</code></em></p>
     </div>
   </div>
 
   <!-- Proyecto 2 -->
   <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="[URL_A_UNA_IMAGEN_O_GIF_DE_TU_PROYECTO_2]" alt="Nombre Proyecto 2" width="150" style="margin-right: 20px; border-radius: 8px;">
+    <img src="https://github.com/nandocdev/whatsapp-automation/blob/main/assets/demo.png" alt="WhatsApp Automation" width="150" style="margin-right: 20px; border-radius: 8px;">
     <div>
-      <h3><a href="[LINK_A_TU_PROYECTO_2_EN_GITHUB_O_DEMO]">Nombre Proyecto 2</a></h3>
-      <p>Breve descripción del proyecto 2. ¿Qué problema resuelve? ¿Qué aprendiste haciéndolo?</p>
-      <p><em>Tecnologías: <code>Python</code>, <code>Flask</code>, <code>PostgreSQL</code></em></p>
+      <h3><a href="https://github.com/nandocdev/whatsapp-automation">Automatización de WhatsApp</a></h3>
+      <p>Gestión de conversaciones de WhatsApp con clasificación de servicios, asignación de agentes y control de estados.</p>
+      <p><em>Tecnologías: <code>Node.js</code>, <code>TypeScript</code>, <code>whatsapp-web.js</code></em></p>
     </div>
   </div>
-  
-  <!-- Puedes añadir más proyectos siguiendo el mismo formato -->
-  
+
   <p align="right"><a href="https://github.com/nandocdev?tab=repositories">Ver todos mis repositorios...</a></p>
 </details>
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nandocdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub de nandocdev" />
@@ -124,30 +113,17 @@ Aquí algunos proyectos en los que he trabajado y estoy orgulloso de mostrar:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandocdev&theme=radical&hide_border=true" alt="Racha de Contribuciones de nandocdev" />
 </p>
 
-<!-- Opcional: GitHub Activity Graph -->
-<!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nandocdev&theme=react-dark&hide_border=true&area=true" alt="Gráfico de Actividad de GitHub" />
-</p> -->
-
 ---
 
 ## 🌱 Actualmente Aprendiendo / Enfocado en
 
-*   Clean Code
-*   Arquitectura Hexagonal
+* Clean Code y buenas prácticas.  
+* Arquitectura Hexagonal.  
+* Automatización con n8n y CI/CD.  
 
 ---
 
-<!--
-## 📫 Contáctame
-
-¡Siempre estoy abierto a conectar y colaborar! No dudes en contactarme: 
-*   **LinkedIn:** [tu-usuario-linkedin](https://linkedin.com/in/[tu-usuario-linkedin])
-*   **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-*   **Twitter:** [@tu-usuario-twitter](https://twitter.com/[tu-usuario-twitter]) (si lo usas profesionalmente)
-*   **Portafolio Web:** [tu-sitio-web.com](https://tu-sitio-web.com) (si tienes uno) -->
-
 <div align="center">
-  <p><em>"Tu cita inspiradora favorita o un lema personal"</em></p>
-  <p>✨ Gracias por visitar mi perfil ✨</p>
+  <p><em>"Simplicidad y resultados antes que sobreingeniería."</em></p>
+  <p>✨ ¡Gracias por visitar mi perfil! ✨</p>
 </div>
