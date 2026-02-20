@@ -1,21 +1,4 @@
 <!-- Encabezado con HTML para centrar y dar un toque visual -->
-<div align="center">
-  <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/github-header-image.png" alt="Banner Dinámico de GitHub - Saludo y Hora" width="800"/>
-
-  <p>
-    <a href="https://linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://x.com/nandocdev" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="mailto:nandocdev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
-    </a>
-  </p>
-</div>
-
-<!-- Encabezado con HTML para centrar y dar un toque visual -->
 
 <div align="center">
   <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/github-header-image.png" alt="Banner Dinámico de GitHub - Saludo y Hora" width="800"/>
@@ -161,34 +144,4 @@ Me interesa especialmente el diseño de arquitecturas limpias, la automatizació
 <div align="center">
   <p><em>Construyendo software práctico, mantenible y orientado a resultados.</em></p>
   <p>✨ Gracias por visitar mi perfil ✨</p>
-</div>
-
-  <p align="right"><a href="https://github.com/nandocdev?tab=repositories">Ver todos mis repositorios...</a></p>
-</details>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandocdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub de nandocdev" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandocdev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes más usados por nandocdev" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandocdev&theme=radical&hide_border=true" alt="Racha de Contribuciones de nandocdev" />
-</p>
-
----
-
-## 🌱 Actualmente Aprendiendo / Enfocado en
-
-* Clean Code y buenas prácticas.  
-* Arquitectura Hexagonal.  
-* Automatización con n8n y CI/CD.  
-
----
-
-<div align="center">
-  <p><em>"Simplicidad y resultados antes que sobreingeniería."</em></p>
-  <p>✨ ¡Gracias por visitar mi perfil! ✨</p>
 </div>
