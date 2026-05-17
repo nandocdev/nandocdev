@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/github-header-image.png" width="800"/>
+  <img src="https://github.com/nandocdev/nandocdev/blob/main/assets/banner-github.png" width="800"/>
 </div>
 
 # Fernando Castillo
