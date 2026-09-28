@@ -4,112 +4,94 @@
 
 # Fernando Castillo
 
-Backend Engineer enfocado en sistemas reales.  
-Laravel + PostgreSQL + Node.js.
+**Software Engineer focused on business systems, SaaS and automation.**
 
-Diseño **monolitos modulares mantenibles** y evito complejidad innecesaria.
+I build software for real operational problems — from internal systems and process automation to multi-tenant SaaS products.
 
----
+My approach is simple:
 
-## Contacto
-
-- LinkedIn: https://linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1  
-- X: https://x.com/nandocdev  
-- Email: nandocdev@gmail.com  
+> **Solve the problem first. Add complexity only when it is justified.**
 
 ---
 
-## Stack
+## What I build
+
+- **Business software** — systems that replace spreadsheets, manual workflows and fragmented processes.
+- **SaaS platforms** — multi-tenant applications designed to evolve without unnecessary infrastructure complexity.
+- **Automation** — integrations and workflows that eliminate repetitive operational work.
+- **AI tooling** — practical tools that use AI where it provides measurable value.
+
+---
+
+## Selected work
+
+### WFM Scheduler
+
+Operational scheduling software focused on workforce planning and management workflows.
+
+**Focus:** Laravel · Livewire · Redis · PostgreSQL · testing · CI/CD
+
+→ [Repository](https://github.com/nandocdev/wfm-scheduler)
+
+### Agent ESC
+
+Developer tooling for building structured AI-assisted workflows, agents and automation.
+
+**Focus:** AI agents · automation · developer tooling · integrations
+
+→ [Repository](https://github.com/nandocdev/agent-esc)
+
+### NandocDev
+
+My public engineering workspace: experiments, products, architecture work and tools used to explore practical software solutions.
+
+→ [Repositories](https://github.com/nandocdev?tab=repositories)
+
+---
+
+## Engineering principles
+
+- **Modular monoliths before microservices.**
+- **Optimize after measuring, not before.**
+- **Prefer boring technology that works.**
+- **Keep abstractions proportional to the problem.**
+- **Design for the developer who has to debug it at 3 a.m.**
+- **Use existing tools when they solve the problem better than custom code.**
+- **Complexity is a cost, not a feature.**
+
+---
+
+## Core stack
 
 **Backend**
-- Laravel / PHP
-- Node.js (TypeScript)
-- Python (automatización)
+
+PHP · Laravel · Node.js · TypeScript · Python · C# / .NET
 
 **Data**
-- PostgreSQL (principal)
-- MySQL
-- MongoDB (casos específicos)
+
+PostgreSQL · MySQL · Redis
 
 **Frontend**
-- Livewire / Blade
-- Vue (cuando aplica)
 
-**Infra**
-- Docker
-- CI/CD básico (GitHub Actions)
+Livewire · React · Vue · Blade · Tailwind CSS
 
----
+**Infrastructure**
 
-## Enfoque
-
-- Monolito modular > microservicios prematuros  
-- Optimizar después de medir  
-- Código entendible a las 3 a.m.  
-- Evitar abstracciones innecesarias  
+Docker · GitHub Actions · Linux · REST APIs
 
 ---
 
-## Proyectos
+## Currently
 
-### ReservEase — SaaS de reservas
-
-**Problema:** pequeños negocios sin sistema de agenda estructurado  
-
-**Solución:**
-- Multi-tenant en Laravel
-- Agenda visual con control por negocio
-- Configuración dinámica
-
-**Decisiones**
-- Monolito modular → menor complejidad operativa
-- MySQL → suficiente para carga actual
-
-**Trade-offs**
-- Escalabilidad limitada sin partición futura
-- Falta de cacheo en consultas pesadas
-
-**Riesgos**
-- N+1 en agenda si crece volumen
-- Necesidad de colas para notificaciones
-
-Repo: https://github.com/nandocdev/reservease
+- Building SaaS products and business software.
+- Improving automated testing and CI/CD workflows.
+- Exploring practical applications of AI-assisted development.
+- Expanding my work with C# and .NET.
 
 ---
 
-### WhatsApp Automation — Gestión de conversaciones
+## Connect
 
-**Problema:** manejo manual e ineficiente de chats  
-
-**Solución:**
-- Clasificación automática
-- Asignación de agentes
-- Estados de conversación
-
-**Decisiones**
-- Node.js + TypeScript → I/O intensivo
-- Arquitectura modular (no microservicios)
-
-**Trade-offs**
-- Dependencia de whatsapp-web.js (inestable)
-- Persistencia limitada sin eventos durables
-
-**Riesgos**
-- Rate limits / bloqueos
-- Pérdida de sesión
-
-Repo: https://github.com/nandocdev/whatsapp-automation
-
----
-
-## Actualmente
-
-- Construyendo SaaS reales (no demos)
-- Mejorando testing y CI/CD
-- Migrando parte del stack a C# / .NET
-
----
-
-## Regla personal
-
-> Si no puedo explicarlo simple, está mal diseñado.
+- [LinkedIn](https://linkedin.com/in/fernando-castillo-vald%C3%A9s-38458aa1)
+- [X](https://x.com/nandocdev)
+- Email: **nandocdev@gmail.com**
